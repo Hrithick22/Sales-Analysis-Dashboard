@@ -50,6 +50,11 @@ This project analyzes sales performance, profitability, customer behavior, and o
 ![Dashboard 3](Dashboard-Dashboard_3.png)
 
 ---
+## 📄 Detailed Project Report
+
+For complete analysis and business recommendations:
+
+👉 [View Full Project Report](Sales Project Report.docx)
 
 ## 🛠 Tools Used
 - Microsoft Excel
