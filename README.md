@@ -3,7 +3,7 @@
 - Identified profit decline trend with increasing discounts (R² = 0.74)
 - Detected loss-making products despite high sales volume
 - Highlighted Technology as the most profitable category
-
+  
 ---
 
 ## 📊 Dashboard Preview
