@@ -1,9 +1,23 @@
 # 📊 Sales Analysis Dashboard (Excel)
-
 ## 🚀 Key Outcome
 - Identified profit decline trend with increasing discounts (R² = 0.74)
 - Detected loss-making products despite high sales volume
 - Highlighted Technology as the most profitable category
+
+---
+
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Dashboard 1](Dashboard_1_Executive.png)
+
+### Pricing & Profit Drivers
+![Dashboard 2](Dashboard_2_Pricing.png)
+
+### Operations & Customer Insights
+![Dashboard 3](Dashboard_3_Operations.png)
+
+---
 
 ## 🔍 Project Overview
 This project analyzes sales performance, profitability, customer behavior, and operational efficiency using Excel dashboards.
@@ -40,19 +54,6 @@ This project analyzes sales performance, profitability, customer behavior, and o
 - Shipping mode analysis
 - Customer segmentation
 - Top customers
-
----
-
-## 📊 Dashboard Preview
-
-### Executive Overview
-![Dashboard 1](Dashboard_1_Executive.png)
-
-### Pricing & Profit Drivers
-![Dashboard 2](Dashboard_2_Pricing.png)
-
-### Operations & Customer Insights
-![Dashboard 3](Dashboard_3_Operations.png)
 
 ---
 ## 📄 Detailed Project Report
