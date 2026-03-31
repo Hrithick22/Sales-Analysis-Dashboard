@@ -61,6 +61,7 @@ For complete analysis and business recommendations:
 - Pivot Tables
 - Charts & Slicers
 - Conditional Formatting
+- Functions
 
 ---
 
