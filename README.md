@@ -56,11 +56,6 @@ This project analyzes sales performance, profitability, customer behavior, and o
 - Top customers
 
 ---
-## 📄 Detailed Project Report
-
-For complete analysis and business recommendations:
-
-👉👉 [View Full Project Report](Sales_Project_Report.docx)
 
 ## 🛠 Tools Used
 - Microsoft Excel
@@ -94,6 +89,14 @@ For complete analysis and business recommendations:
 - Monitor loss-making products and optimize pricing strategy
 - Improve performance in underperforming regions like Central
 - Strengthen relationships with top customers to retain revenue concentration
+
+---
+
+## 📄 Detailed Project Report
+
+For complete analysis and business recommendations:
+
+👉👉 [View Full Project Report](Sales_Project_Report.docx)
 
 ---
 
