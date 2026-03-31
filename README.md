@@ -4,7 +4,7 @@
 This project analyzes sales performance, profitability, customer behavior, and operational efficiency using Excel dashboards.
 
 ---
-
+  
 ## 📌 Business Questions
 
 1. Which regions contribute the most to total sales?
@@ -65,11 +65,18 @@ For complete analysis and business recommendations:
 ---
 
 ## 💡 Key Insights
+
 - Higher discounts reduce profit margins significantly
 - Technology is the most profitable category
 - Few products generate losses despite high sales
 - Sales are concentrated among top customers
+---
 
+## 📌 Business Impact
+
+- Identified that discounts above 30% significantly reduce profitability
+- Highlighted loss-making products despite high sales volume
+- Provided actionable insights to optimize pricing strategy
 
 ---
 
