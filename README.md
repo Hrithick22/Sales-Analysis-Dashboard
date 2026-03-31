@@ -73,6 +73,3 @@ This project analyzes sales performance, profitability, customer behavior, and o
 - Dashboard Screenshots
 
 ---
-
-## 🚀 Next Step
-Extending this analysis to real-world manufacturing (QC operations) data
