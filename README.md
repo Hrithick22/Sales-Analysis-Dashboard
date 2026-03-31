@@ -38,6 +38,19 @@ This project analyzes sales performance, profitability, customer behavior, and o
 
 ---
 
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Dashboard 1](dashboards-dashboard_1.png)
+
+### Pricing & Profit Drivers
+![Dashboard 2](dashboards-dashboard_2.png)
+
+### Operations & Customer Insights
+![Dashboard 3](dashboards-dashboard_3.png)
+
+---
+
 ## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
