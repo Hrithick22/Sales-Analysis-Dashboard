@@ -104,8 +104,14 @@ For complete analysis and business recommendations:
 
 ---
 
+## 📚 What I Learned
 
+- Translating business questions into analytical problems
+- Building interactive dashboards using Pivot Tables and slicers
+- Identifying patterns and deriving actionable insights
+- Communicating findings clearly through visuals and reports
 
+---
 
 
 
