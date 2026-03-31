@@ -65,12 +65,6 @@ This project analyzes sales performance, profitability, customer behavior, and o
 - Few products generate losses despite high sales
 - Sales are concentrated among top customers
 
----
-
-## 📂 Files
-- Sales Dataset (CSV)
-- Excel Dashboard
-- Dashboard Screenshots
 
 ---
 
@@ -84,6 +78,12 @@ This project analyzes sales performance, profitability, customer behavior, and o
 
 ---
 
+## 📂 Files
+- Sales Dataset (CSV)
+- Excel Dashboard
+- Dashboard Screenshots
+
+---
 
 
 
