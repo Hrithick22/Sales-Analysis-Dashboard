@@ -41,13 +41,13 @@ This project analyzes sales performance, profitability, customer behavior, and o
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Dashboard 1](dashboards-dashboard_1.png)
+![Dashboard 1](dashboard-dashboard_1.png)
 
 ### Pricing & Profit Drivers
-![Dashboard 2](dashboards-dashboard_2.png)
+![Dashboard 2](dashboard-dashboard_2.png)
 
 ### Operations & Customer Insights
-![Dashboard 3](dashboards-dashboard_3.png)
+![Dashboard 3](dashboard-dashboard_3.png)
 
 ---
 
