@@ -9,13 +9,13 @@
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Dashboard 1](Dashboard_1_Executive.png)
+![Dashboard 1](images/Dashboard_1_Executive.png)
 
 ### Pricing & Profit Drivers
-![Dashboard 2](Dashboard_2_Pricing.png)
+![Dashboard 2](images/Dashboard_2_Pricing.png)
 
 ### Operations & Customer Insights
-![Dashboard 3](Dashboard_3_Operations.png)
+![Dashboard 3](images/Dashboard_3_Operations.png)
 
 ---
 
