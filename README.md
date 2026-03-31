@@ -73,3 +73,21 @@ This project analyzes sales performance, profitability, customer behavior, and o
 - Dashboard Screenshots
 
 ---
+
+## 📌 Business Recommendations
+
+- Limit discount levels below 30% to maintain healthy profit margins
+- Focus on Technology category for profit growth
+- Monitor loss-making products and optimize pricing strategy
+- Improve performance in underperforming regions like Central
+- Strengthen relationships with top customers to retain revenue concentration
+
+---
+
+
+
+
+
+
+
+
